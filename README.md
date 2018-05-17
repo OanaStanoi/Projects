@@ -1,0 +1,2 @@
+# Projects
+Algolia assignment
